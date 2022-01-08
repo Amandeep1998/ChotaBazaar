@@ -1,0 +1,48 @@
+[
+    {   
+        "id": 1,
+        "label": "Crypto T-shirt",
+        "price": 500,
+        "img": "/assets/crypto.png",
+        "quantity": 1
+    },
+    {
+        "id": 2,
+        "label": "Marketing T-shirt",
+        "price": 400,
+        "img": "/assets/marketing.png",
+        "quantity": 1
+    },
+    {
+        "id": 3,
+        "label": "Coder T-shirt",
+        "price": 450 ,
+        "img": "/assets/html.png",
+        "quantity": 1
+
+    },
+    {
+        "id": 4,
+        "label": "Funny T-shirt",
+        "price": 300 ,
+        "img": "/assets/funny.png",
+        "quantity": 1
+
+    },
+    {
+        "id": 5,
+        "label": "Mechanic T-shirt",
+        "price": 200 ,
+        "img": "/assets/mechanic.png",
+        "quantity": 1
+
+    },
+    {
+        "id": 6,
+        "label": "Electrician T-shirt",
+        "price": 400,
+        "img": "/assets/electrician.png",
+        "quantity": 1
+
+    }
+]
